@@ -1,2 +1,4 @@
 site_name: Моя документация
 site_url: https://aleksandraerm.github.io/my-project/
+theme:
+  name: material
